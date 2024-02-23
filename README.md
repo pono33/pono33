@@ -1,5 +1,5 @@
 
-- 👋 Hey there! My name is Facundo but you can also call me Pono!, and I'm getting **one step closer to become a data scientist!**  I'm currently working in the final proyects of Henry's Data Science Bootcamp, and I'm actively honing my skills and building a portfolio to showcase my journey.
+- 👋 Hey there! My name is Facundo but you can also call me Pono!, and I'm **rencently graduated data scientist!**  from Henry's Data Science Bootcamp, and I'm actively honing my skills and building a portfolio to showcase my journey.
 
 * **Open source spirit:** My code is open for exploration and learning! Feel free to fork, pull, and collaborate, let's push the boundaries of data together!
 * **A continuous learning curve:** This is a work in progress, just like my data science journey. You'll find a mix of completed projects and ongoing experiments, reflecting my growth and evolving interests.
